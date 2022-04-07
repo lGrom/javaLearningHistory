@@ -1,4 +1,4 @@
-package ohBoyIHopeThisWorks;
+package gui;
 
 import javax.swing.JOptionPane;
 
@@ -10,7 +10,7 @@ public class BasicGUI {
 		
 		String name = JOptionPane.showInputDialog("Enter your name");
 		String age = JOptionPane.showInputDialog("How old are you");
-		JOptionPane.showMessageDialog(null, "Hi "+name+"! You are " + age + " years old.");
+		JOptionPane.showMessageDialog(null, "Hi " + name + "! You are " + age + " years old.");
 		
 		String name2 = JOptionPane.showInputDialog("What the name of the other person with you?");
 		String age2 = JOptionPane.showInputDialog("How old is " + name2 + "?");
