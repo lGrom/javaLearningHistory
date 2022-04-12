@@ -1,6 +1,7 @@
 package variables;
 
 import java.util.ArrayList;
+import java.util.Scanner;
 
 public class ChangeableArray {
 	public static void main (String[] args) {
@@ -22,5 +23,6 @@ public class ChangeableArray {
 		}
 		
 		System.out.printf("\n\n%s", food);
+	
 	}
 }
