@@ -16,11 +16,16 @@ public class KeyboardConstructer {
 		this.switches = switches;
 		this.inputLagMS = inputLagMS;
 		this.percent = percent;
-		// put all the variables above here
-		String[] specList = {this.keyCaps};
 	}
 	
 	void printSpecs() {
-		System.out.printf();
+		String[] specList = {"mechanical", "custom", "key caps", "switches", "input lag in ms", "percent"};
+		String[] specs = {this.mechanical.toString(), this.custom.toString(), this.keyCaps, this.switches, this.inputLagMS.toString(), this.percent.toString()};
+		int j = 0;
+		for(String i : specs) {
+			System.out.printf("%s: %s\n", specList[j], i);
+			j++;
+		}
+		System.out.println();
 	}
 }
