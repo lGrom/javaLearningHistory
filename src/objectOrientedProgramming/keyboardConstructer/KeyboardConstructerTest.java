@@ -1,4 +1,4 @@
-package objectOrientedProgramming;
+package objectOrientedProgramming.keyboardConstructer;
 
 public class KeyboardConstructerTest {
 	public static void main(String[] args) {
