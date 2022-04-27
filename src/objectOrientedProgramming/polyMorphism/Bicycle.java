@@ -1,0 +1,7 @@
+package objectOrientedProgramming.polyMorphism;
+
+public class Bicycle extends Vehicle{
+	public void go() {
+		System.out.println("The bike is going");
+	}
+}
