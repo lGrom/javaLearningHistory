@@ -5,7 +5,7 @@ import package1.*;
 public class C {
 
 	// Since this has the default protections, other classes in the package can see this, 
-	// but classes outside of this package cannot
+	// but classes outside this package cannot
 	String defaultMessage = "This is the default";
 	
 	// public keyword makes the variable visible to all classes in the project.
