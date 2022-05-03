@@ -2,10 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="657a380d-8526-4504-8a1b-e095f4f0bc8e" name="Changes" comment="Migrated to intelliJ">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/objectOrientedProgramming/polyMorphism/Boat.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/objectOrientedProgramming/polyMorphism/Boat.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/package2/C.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/package2/C.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -47,13 +44,18 @@
     &quot;run.code.analysis.last.selected.profile&quot;: &quot;pProject Default&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.WriteToAndReadFile">
-    <configuration name="BasicGUI" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="gui.BasicGUI" />
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\dallin.reeser779\eclipse-workspace\learningHistory\src\gui" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.SimpleJFrame">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="variables.files.FileMain" />
       <module name="learningHistory" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="gui.*" />
+          <option name="PATTERN" value="objectOrientedProgramming.dynamicPolyMorphism.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -61,12 +63,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="variables.files.FileMain" />
+    <configuration name="SimpleJFrame" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="gui.SimpleJFrame" />
       <module name="learningHistory" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="objectOrientedProgramming.dynamicPolyMorphism.*" />
+          <option name="PATTERN" value="gui.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -87,6 +89,19 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="audio.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="audio.Main" />
+      <module name="learningHistory" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="audio.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="conditionals.exceptionHandling.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="conditionals.exceptionHandling.Main" />
       <module name="learningHistory" />
@@ -96,13 +111,6 @@
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="main" />
-      <module name="learningHistory" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -120,11 +128,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.SimpleJFrame" />
+        <item itemvalue="Application.audio.Main" />
         <item itemvalue="Application.WriteToAndReadFile" />
         <item itemvalue="Application.Main" />
         <item itemvalue="Application.conditionals.exceptionHandling.Main" />
-        <item itemvalue="Application.BasicGUI" />
-        <item itemvalue="Application.main" />
       </list>
     </recent_temporary>
   </component>
