@@ -17,7 +17,7 @@ public class Methods {
 			message += "\n";
 		}
 		
-		System.out.printf(message);
+		System.out.print(message);
 	}
 	
 	static int add(int a, int b) {
