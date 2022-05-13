@@ -3,12 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="657a380d-8526-4504-8a1b-e095f4f0bc8e" name="Changes" comment="Migrated to intelliJ">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/learningHistory/gui/button/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/learningHistory/gui/button/Main.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/learningHistory/gui/button/button.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/learningHistory/gui/button/button.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/learningHistory/variables/Methods.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/learningHistory/variables/Methods.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/gui/button/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/gui/button/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/gui/button/button.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/gui/button/Button.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/variables/Methods.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/variables/Methods.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -56,26 +50,13 @@
       <recent name="C:\Users\dallin.reeser779\eclipse-workspace\learningHistory\src\gui\lgrom" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.gui.layeredLayout.Main">
-    <configuration name="gui.borderlayout.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="gui.borderlayout.Main" />
+  <component name="RunManager" selected="Application.gui.joptionpane.Main">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="gui.openNewWindow.Main" />
       <module name="learningHistory" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="gui.borderlayout.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="gui.button.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="gui.button.Main" />
-      <module name="learningHistory" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="gui.button.*" />
+          <option name="PATTERN" value="gui.openNewWindow.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -109,6 +90,19 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="gui.joptionpane.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="gui.joptionpane.Main" />
+      <module name="learningHistory" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="gui.joptionpane.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="gui.layeredLayout.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="gui.layeredLayout.Main" />
       <module name="learningHistory" />
@@ -135,11 +129,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.gui.joptionpane.Main" />
+        <item itemvalue="Application.Main" />
         <item itemvalue="Application.gui.layeredLayout.Main" />
         <item itemvalue="Application.gui.gridLayout.Main" />
         <item itemvalue="Application.gui.flowlayout.Main" />
-        <item itemvalue="Application.gui.borderlayout.Main" />
-        <item itemvalue="Application.gui.button.Main" />
       </list>
     </recent_temporary>
   </component>
