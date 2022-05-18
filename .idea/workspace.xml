@@ -50,13 +50,13 @@
       <recent name="C:\Users\dallin.reeser779\eclipse-workspace\learningHistory\src\gui\lgrom" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.gui.joptionpane.Main">
+  <component name="RunManager" selected="Application.Main">
     <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="gui.openNewWindow.Main" />
+      <option name="MAIN_CLASS_NAME" value="gui.sliders.Main" />
       <module name="learningHistory" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="gui.openNewWindow.*" />
+          <option name="PATTERN" value="gui.sliders.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -64,12 +64,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="gui.flowlayout.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="gui.flowlayout.Main" />
+    <configuration name="gui.checkBox.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="gui.checkBox.Main" />
       <module name="learningHistory" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="gui.flowlayout.*" />
+          <option name="PATTERN" value="gui.checkBox.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -77,12 +77,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="gui.gridLayout.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="gui.gridLayout.Main" />
+    <configuration name="gui.comboBox.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="gui.comboBox.Main" />
       <module name="learningHistory" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="gui.gridLayout.*" />
+          <option name="PATTERN" value="gui.comboBox.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -90,12 +90,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="gui.joptionpane.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="gui.joptionpane.Main" />
+    <configuration name="gui.radioButtons.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="gui.radioButtons.Main" />
       <module name="learningHistory" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="gui.joptionpane.*" />
+          <option name="PATTERN" value="gui.radioButtons.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -103,12 +103,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="gui.layeredLayout.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="gui.layeredLayout.Main" />
+    <configuration name="gui.textfield.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="gui.textfield.Main" />
       <module name="learningHistory" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="gui.layeredLayout.*" />
+          <option name="PATTERN" value="gui.textfield.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -129,11 +129,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.gui.joptionpane.Main" />
         <item itemvalue="Application.Main" />
-        <item itemvalue="Application.gui.layeredLayout.Main" />
-        <item itemvalue="Application.gui.gridLayout.Main" />
-        <item itemvalue="Application.gui.flowlayout.Main" />
+        <item itemvalue="Application.gui.comboBox.Main" />
+        <item itemvalue="Application.gui.radioButtons.Main" />
+        <item itemvalue="Application.gui.checkBox.Main" />
+        <item itemvalue="Application.gui.textfield.Main" />
       </list>
     </recent_temporary>
   </component>
