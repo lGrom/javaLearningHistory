@@ -3,7 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="657a380d-8526-4504-8a1b-e095f4f0bc8e" name="Changes" comment="Migrated to intelliJ">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/gui/sliders/Frame.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/gui/sliders/Frame.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/gui/jProgressBar/ProgressBar.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/gui/jProgressBar/ProgressBar.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -14,6 +14,7 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="Class" />
+        <option value="AnnotationType" />
       </list>
     </option>
   </component>
@@ -51,26 +52,13 @@
       <recent name="C:\Users\dallin.reeser779\eclipse-workspace\learningHistory\src\gui\lgrom" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.gui.jProgressBar.Main">
+  <component name="RunManager" selected="Application.objectOrientedProgramming.annotations.Main">
     <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="gui.sliders.Main" />
       <module name="learningHistory" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="gui.sliders.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="gui.checkBox.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="gui.checkBox.Main" />
-      <module name="learningHistory" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="gui.checkBox.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -117,6 +105,19 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="objectOrientedProgramming.annotations.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="objectOrientedProgramming.annotations.Main" />
+      <module name="learningHistory" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="objectOrientedProgramming.annotations.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration default="true" type="JetRunConfigurationType">
       <method v="2">
         <option name="Make" enabled="true" />
@@ -130,11 +131,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.objectOrientedProgramming.annotations.Main" />
         <item itemvalue="Application.gui.jProgressBar.Main" />
         <item itemvalue="Application.Main" />
         <item itemvalue="Application.gui.comboBox.Main" />
         <item itemvalue="Application.gui.radioButtons.Main" />
-        <item itemvalue="Application.gui.checkBox.Main" />
       </list>
     </recent_temporary>
   </component>
