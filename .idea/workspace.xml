@@ -3,7 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="657a380d-8526-4504-8a1b-e095f4f0bc8e" name="Changes" comment="Migrated to intelliJ">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/gui/jProgressBar/ProgressBar.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/gui/jProgressBar/ProgressBar.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -13,8 +12,8 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="Class" />
         <option value="AnnotationType" />
+        <option value="Class" />
       </list>
     </option>
   </component>
@@ -52,7 +51,7 @@
       <recent name="C:\Users\dallin.reeser779\eclipse-workspace\learningHistory\src\gui\lgrom" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.objectOrientedProgramming.annotations.Main">
+  <component name="RunManager" selected="Application.gui.menu.Main">
     <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="gui.sliders.Main" />
       <module name="learningHistory" />
@@ -92,12 +91,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="gui.radioButtons.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="gui.radioButtons.Main" />
+    <configuration name="gui.menu.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="gui.menu.Main" />
       <module name="learningHistory" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="gui.radioButtons.*" />
+          <option name="PATTERN" value="gui.menu.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -131,11 +130,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.objectOrientedProgramming.annotations.Main" />
+        <item itemvalue="Application.gui.menu.Main" />
         <item itemvalue="Application.gui.jProgressBar.Main" />
+        <item itemvalue="Application.objectOrientedProgramming.annotations.Main" />
         <item itemvalue="Application.Main" />
         <item itemvalue="Application.gui.comboBox.Main" />
-        <item itemvalue="Application.gui.radioButtons.Main" />
       </list>
     </recent_temporary>
   </component>
